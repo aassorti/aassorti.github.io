@@ -36,7 +36,7 @@
             font-weight: bold;
         }
         .hero {
-            background: url('https://example.com/light-letters-bg.jpg') no-repeat center/cover;
+            background: url('[https://avatars.mds.yandex.net/i?id=41cbdcce21324849596a1a9ab24c1126_l-10501287-images-thumbs&n=13]') no-repeat center/cover;
             color: white;
             text-align: center;
             padding: 100px 0;
